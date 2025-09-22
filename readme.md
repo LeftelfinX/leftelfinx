@@ -1,7 +1,7 @@
 # HI! I'm LeftelfinX! 👋🏼
 
 ## 🚀 About Me
-I'm **Leftelfin**, a passionate computer enthusiast and self-hosting geek. I love tinkering with Linux, exploring server setups, and working on open-source projects. I have been using Arch Linux as my daily driver for almost **2 years**, and I enjoy experimenting with different tech stacks (😅 **I just waste my whole day doing something on my PC!!**). 
+I'm **LeftelfinX**, a passionate computer enthusiast and self-hosting geek. I love tinkering with Linux, exploring server setups, and working on open-source projects. I have been using Arch Linux as my daily driver for almost **2 years**, and I enjoy experimenting with different tech stacks (😅 **I just waste my whole day doing something on my PC!!**). 
 
 I also have experience with **server setups** like Proxmox, TrueNAS, and various self-hosted services, running on my **dedicated server** built from old gaming PC parts.
 
@@ -17,7 +17,7 @@ I also have experience with **server setups** like Proxmox, TrueNAS, and various
 ---
 
 ## 🔥 Featured Project: [BASHED](https://github.com/leftelfin/BASHED)
-BASHED is one of my recent projects, currently at **Release 1.0**. It focuses on **[brief project description]**. 
+BASHED is one of my recent projects, currently at **Release 1.0**. It focuses on **[Customizing the .bashrc config and making it attractive without installing any software just pure raw customization.]**. 
 
 ![GitHub release](https://img.shields.io/github/v/release/leftelfin/BASHED)
 
@@ -27,8 +27,9 @@ BASHED is one of my recent projects, currently at **Release 1.0**. It focuses on
 
 ## 🖥️ My Setup
 - **Laptop:** **_"CICI"_** ThinkPad T495 (Ryzen 7 3700U, 32GB RAM)
-- **WorkStation** **_"LIXIA"_** EATX PC (i5 12400f, 64GB RAM, RX 6750XT 12GB)
-- **Server:** **_"MUXI"_** ATX Server (i5 6500, 16GB RAM, GTX 1050 2GB)
+- **WorkStation** **_"LIXIA"_** EATX PC (R5 5600x, 32GB RAM, RX 6750XT 12GB)
+- **Compute Server:** **_"Adreno"_** EATX Server (i5 12400f, 32GB DDR4, RTX 3090 24GB)
+- **NAS:** **_"MUXI"_** ATX Server (i5 6500, 16GB RAM, 44 TB Capacity)
 - **Development Environment:** Arch Linux + VS Code + Obsidian
 
 ---
